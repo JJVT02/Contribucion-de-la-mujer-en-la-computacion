@@ -2,7 +2,7 @@
 ## Contenidos
 - [Hedy Lamar](hedylamar.md)
 - [Radia Joy Perlman](RadiaJoyPerlman.md)
-- [Joan Clarke](RadiaJoyPerlman.md)
+- [Joan Clarke](joan.md)
 - [Grace Murray](grace.md)
 - [Alicia calderón](alicia.md)
 ## Conclusión
