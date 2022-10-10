@@ -1,8 +1,8 @@
 # Contribucion-de-la-mujer-en-la-computacion
 ## Contenidos
 - [Hedy Lamar](hedylamar.md)
-- [Radia Joy Perlman]
-- [Joan Clarke]  
+- [Radia Joy Perlman](RadiaJoyPerlman)
+- [Joan Clarke]
 - [Grace Murray]
 - [Alicia calderón] 
 ## Conclusión
